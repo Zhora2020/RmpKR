@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Guide2.0</string>
+    <string-array name="manu_hdd">
+        <item name="wd">Western Digital (WD)</item>
+        <item name="se">Seagate</item>
+        <item name="to">TOSHIBA</item>
+        <item name="hi">HITACHI</item>
+        <item name="sa">Samsung</item>
+    </string-array>
+    <string-array name="wd_mod">
+        <item name="синий">Blue</item>
+        <item name="зеленый">Green</item>
+        <item name="черный">Black</item>
+        <item name="красный">Red</item>
+        <item name="фиолетовый">Purple</item>
+        <item name="золотой">Gold</item>
+    </string-array>
+    <string-array name="se_mod">
+        <item name=""></item>
+        <item name=""></item>
+        <item name=""></item>
+        <item name=""></item>
+        <item name=""></item>
+    </string-array>
+    <string-array name="to_mod">
+        <item name=""></item>
+        <item name=""></item>
+        <item name=""></item>
+        <item name=""></item>
+        <item name=""></item>
+    </string-array>
+    <string-array name="hi_mod">
+        <item name=""></item>
+        <item name=""></item>
+        <item name=""></item>
+        <item name=""></item>
+        <item name=""></item>
+    </string-array>
+    <string-array name="sa_mod">
+        <item name=""></item>
+        <item name=""></item>
+        <item name=""></item>
+        <item name=""></item>
+        <item name=""></item>
+    </string-array>
+</resources>
